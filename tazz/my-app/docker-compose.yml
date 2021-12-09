@@ -1,0 +1,14 @@
+version: '3.7'
+
+services:
+  tazz:
+    container_name: tazz-ct
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - '.:/app'
+      - '/app/node_modules'
+      - '/app/src'
+    ports:
+      - '8080:80'
