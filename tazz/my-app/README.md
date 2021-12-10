@@ -3,6 +3,10 @@
 ## Project requirements
 ```
 npm
+vue add vuetify
+npm install @nuxtjs/vuetify -D
+npm install vuetify
+npm install sass@~1.32 sass-loader deepmerge -D
 node
 @vue/cli
 install vetur extension
