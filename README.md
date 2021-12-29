@@ -1,5 +1,9 @@
 # tazz
 
+Tazz is a VueJs/Vuex frontend with Ruby on Rails backend project. The MVP is currently still in production but 
+its aim is to create a service that allows Twitch Streamers to freelance their skills to fans.
+
+
 ## Project requirements
 ```
 brew install node
