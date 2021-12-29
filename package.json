@@ -1,0 +1,19 @@
+{
+  "name": "tazz",
+  "version": "1.0.0",
+  "description": "## Project requirements ``` brew install node brew install chruby ruby-install ruby-install ruby gem update --system  // update latest version gem install bundler  gem install rails --user-install brew install vue/cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-ohadi/tazz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex-ohadi/tazz/issues"
+  },
+  "homepage": "https://github.com/alex-ohadi/tazz#readme"
+}
